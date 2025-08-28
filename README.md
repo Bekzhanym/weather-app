@@ -19,8 +19,8 @@ WeatherApp — это мобильное приложение на **Flutter**, 
 
 ## 📸 Скриншоты
 <p align="center">
-  <img src="assets/screenshots/1.png" width="250" />
-  <img src="assets/screenshots/2.png" width="250" />
+  <img src="assets/1.png" width="250" />
+  <img src="assets/2.png" width="250" />
 </p>
 
 ---
